@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkaya13" alt="mkaya13" /></a> </p>
 
-- 👯 Looking opportunities for **Web3 projects**
-
 - 🤝 Interested in **Web3, DeFi, NFT/SFT, Solidity, React**
 
 - 👨‍💻 My portfolio [https://mkaya13.github.io/portfolio.github.io/](https://mkaya13.github.io/portfolio.github.io/)
